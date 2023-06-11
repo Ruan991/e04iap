@@ -1,4 +1,4 @@
-var json = '{"name": "FSMP", "goal": 69, "currentp": "80%", "currentv": 50}';
+var json = '{"name": "FSMP", "goal": 69, "currentp": "0%", "currentv": 0}';
 
 // Converting JSON-encoded string to JS object
 var obj = JSON.parse(json);
